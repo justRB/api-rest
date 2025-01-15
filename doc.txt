@@ -1,0 +1,3 @@
+flask --app main run --debug
+
+# Faire le readme
